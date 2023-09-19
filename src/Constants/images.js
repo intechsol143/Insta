@@ -1,0 +1,23 @@
+export const images = {
+    rate:require("../assets/rate.png"),
+    feedback:require("../assets/feedback.png"),
+    intro:require("../assets/intro.png"),
+    imunity:require("../assets/imunity.png"),
+    payment:require("../assets/payment.png"),
+    updates:require("../assets/updates.png"),
+    faqs:require("../assets/faqs.png"),
+    share:require("../assets/share.png"),
+    box:require("../assets/box.png"),
+    logo:require("../assets/logo.png"),
+    whatsapp:require("../assets/whatsapp.png"),
+    mail:require("../assets/mail.png"),
+    gmail:require("../assets/gmail.png"),
+    message:require("../assets/messages.png"),
+    insta:require("../assets/insta.png"),
+    check:require("../assets/check.png"),
+    splash:require("../assets/splash.jpg"),
+    headerlogo:require("../assets/headerlogo.png"),
+    tabletsplash:require("../assets/tabletsplash.png"),
+    
+    // headerlogo:require("../assets/logo1.png"),
+}

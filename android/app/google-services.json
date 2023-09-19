@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43469507874",
+    "project_id": "prodownloader-671b7",
+    "storage_bucket": "prodownloader-671b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43469507874:android:216fb6e0844fa7b781e97b",
+        "android_client_info": {
+          "package_name": "com.igsaver.insaver.instadownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43469507874-kqdrt0nah77qlgihgco5t6vdba6nrgji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA5jmpLywv5pSssa4rbF4SSP-2y1F8eOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43469507874-kqdrt0nah77qlgihgco5t6vdba6nrgji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
